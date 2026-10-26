@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\bin\Debug\net10.0\helloword.exe
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\bin\Debug\net10.0\helloword.deps.json
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\bin\Debug\net10.0\helloword.runtimeconfig.json
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\bin\Debug\net10.0\helloword.dll
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\bin\Debug\net10.0\helloword.pdb
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.AssemblyInfo.cs
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.dll
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\refint\helloword.dll
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.pdb
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\helloword.genruntimeconfig.cache
+C:\Users\DELL\Desktop\workshop\workshop4001\helloword\obj\Debug\net10.0\ref\helloword.dll
