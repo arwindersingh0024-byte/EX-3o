@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\bin\Debug\net10.0\arwinder.exe
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\bin\Debug\net10.0\arwinder.deps.json
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\bin\Debug\net10.0\arwinder.runtimeconfig.json
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\bin\Debug\net10.0\arwinder.dll
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\bin\Debug\net10.0\arwinder.pdb
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.AssemblyInfo.cs
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.dll
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\refint\arwinder.dll
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.pdb
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\arwinder.genruntimeconfig.cache
+C:\Users\DELL\Desktop\workshop\workshop4001\arwinder\obj\Debug\net10.0\ref\arwinder.dll
